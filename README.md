@@ -1,11 +1,11 @@
-To run in unity just hit the playbuton the main menu after downloading
+To run in unity just hit the play button the main menu after downloading
 
 Play as a tank with a fixed front machine gun that overheats, a turret cannon and a launcher that fires a burst of 4 missiles
 
 w and as move the tank along its long axis 
 a and d roatte the hull and the mouse aims the turret
 
-1,2,3 to witch weapons.
+1,2,3 to switch weapons.
 
 accumulate score by surviving and killing th ehtree enemy types, turret, mortar and tank, while fleeing from the gas cloud and avoiding obstacles randomly distributed the map.
 
